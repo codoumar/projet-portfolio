@@ -8,8 +8,8 @@ st.subheader("Profil")
 st.markdown("Je maîtrise les pratiques liées à la mise bas chez la brebis et je sais également cultiver différentes productions agricoles. J’ai déjà étudié certaines bactéries en microbiologie et j’ai eu l’occasion d’observer des cellules animales en biologie animale.")
 
 st.subheader("Parcours académique")
-st.markdown("2026-2027:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow")
-st.markdown("2023-2024:Baccalauréat en Sciences expérimentales,Institution Saint Louis Marie Grignion,Malika")
+st.markdown("* 2026-2027:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow")
+st.markdown("* 2023-2024:Baccalauréat en Sciences expérimentales,Institution Saint Louis Marie Grignion,Malika")
 
 st.subheader("Compétences")
 st.markdown("* Suite bureautique")
