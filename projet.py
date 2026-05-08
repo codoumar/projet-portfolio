@@ -45,7 +45,7 @@ with col8:
         
 with st.sidebar:
     st.image("portrait.jpeg",width=200)
-    st.markdown("📩codoumarfaye3105@gmail.com")
-    st.markdown("📍:Dakar,sénégal")
+    st.markdown("Mail:codoumarfaye3105@gmail.com")
+    st.markdown("Dakar,sénégal")
     st.markdown("-------------------------------")
     st.markdown("Veuillez me joindre par mail pour toute information supplémentaire.")
