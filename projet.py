@@ -1,7 +1,7 @@
 import streamlit as st
 st.title("Codou Mar FAYE")
 
-st.header("Ingénieur en Agronomie")
+st.subheader("Ingénieur en Agronomie")
 st.markdown("-------------------------------------------------------------------")
 
 st.subheader("Profil")
