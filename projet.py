@@ -2,6 +2,7 @@ import streamlit as st
 st.title("Codou Mar FAYE")
 
 st.header("Ingénieur en Agronomie")
+st.markdown("-------------------------------------------------------------------")
 
 st.subheader("Profil")
 st.markdown("Je maîtrise les pratiques liées à la mise bas chez la brebis et je sais également cultiver différentes productions agricoles. J’ai déjà étudié certaines bactéries en microbiologie et j’ai eu l’occasion d’observer des cellules animales en biologie animale.")
