@@ -21,7 +21,7 @@ st.subheader("Projets réalisés")
 col1,col2=st.columns(2)
     
 with col1:
-    st.markdown("Depuis mon enfance, je m’occupe du bétail avec passion et sérieux. Cette expérience m’a appris à observer les animaux, anticiper leurs besoins et intervenir lors de moments importants comme la mise bas. Elle nourrit mon engagement envers l’élevage et renforce ma motivation à approfondir mes connaissances en sciences animales et en agriculture.")
+    st.markdown("Je m’occupe du bétail avec passion et sérieux. Cette expérience m’a appris à observer les animaux, anticiper leurs besoins et intervenir lors de moments importants comme la mise bas. Elle nourrit mon engagement envers l’élevage et renforce ma motivation à approfondir mes connaissances en sciences animales et en agriculture.")
 
 with col2:
     st.image("agneau.jpg", caption="Le bétail dont je m'occupe")
@@ -29,8 +29,7 @@ with col2:
 col3,col4=st.columns(2)
 
 with col3:
-    st.markdown("Je m’occupe des poules avec sérieux et passion, en veillant à leur alimentation, leur santé et leur bien-être. Cette expérience pratique a renforcé mon sens des responsabilités et mon intérêt pour l’élevage et les sciences animales.")
-
+    st.markdown("Je m’occupe des poules avec sérieux et passion, en veillant à leur alimentation, leur santé et leur bien-être.")
 with col4:
     st.image("poules.jpg",width=200, caption="Le poulailler a ma charge")
 col5,col6=st.columns(2)
