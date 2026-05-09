@@ -11,7 +11,7 @@ st.subheader("Parcours académique")
 st.markdown("* 2026-2027:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow,Diamniadio")
 st.markdown("* 2023-2024:Baccalauréat en Sciences expérimentales,Institution Saint Louis Marie Grignion,Malika")
 
-st.subheader("Compétences")
+st.subheader("Compétences professionelles")
 st.markdown("* Suite bureautique")
 st.markdown("* Canva")
 st.markdown("* Culture agricole:tomates,arachides,oignons vert,gros thym...")
