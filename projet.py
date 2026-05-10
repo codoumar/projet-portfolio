@@ -27,7 +27,7 @@ with col1:
     st.markdown("Participation aux soins du bétail et assistance lors des mises bas. Cette expérience a renforcé mes compétences en élevage et mon intérêt pour la production animale..")
 
 with col2:
-    st.image("agneau.jpg",width=200")
+    st.image("agneau.jpg",width=200)
     
 col3,col4=st.columns(2)
 
