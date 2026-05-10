@@ -22,7 +22,7 @@ st.markdown("* Manipulation d'équipements de laboratoire")
 
 st.markdown("--------------------------------------------------------------------------")
 
-st.subheader("Expériences professionelles")
+st.subheader("Expériences pratiques")
 st.markdown("* Gestion de l'alimentation animale")
 st.markdown("* Hygiène d'élevage")
 st.markdown("* Soins du bétail")
