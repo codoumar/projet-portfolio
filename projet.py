@@ -10,6 +10,8 @@ st.markdown("-------------------------------------------------------------------
 st.subheader("Parcours académique")
 st.markdown("* 2024-2027:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow,Diamniadio")
 st.markdown("* 2023-2024:Baccalauréat en Sciences expérimentales,Institution Saint Louis Marie Grignion,Malika")
+st.markdown("--------------------------------------------------------------------------")
+
 st.subheader("Compétences professionelles")
 st.markdown("* Suite bureautique")
 st.markdown("* Canva")
