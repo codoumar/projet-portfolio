@@ -16,10 +16,11 @@ st.subheader("Compétences professionelles")
 st.markdown("* Suite bureautique")
 st.markdown("* Canva")
 st.markdown("* Technique de culture agricole:tomates,arachides,oignons vert,gros thym...")
+st.markdown("* Notions en santé animale")
+
 st.markdown("--------------------------------------------------------------------------")
 
 st.subheader("Expériences professionelles")
-st.markdown("* Notions en santé animale")
 st.markdown("* Gestion de l'alimentation animale")
 st.markdown("* Hygiène d'élevage")
 st.markdown("* Soins du bétail")
