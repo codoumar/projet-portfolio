@@ -17,8 +17,8 @@ st.markdown("* Canva")
 st.markdown("* Technique de culture agricole:tomates,arachides,oignons vert,gros thym...")
 st.markdown("* Notions en santé animale")
 st.markdown("* Gestion de l'alimentation animale")
-st.markdown("Hygiène d'élevage")
-st.markdown("soins du bétail")
+st.markdown("* Hygiène d'élevage")
+st.markdown("* Soins du bétail")
 st.markdown("--------------------------------------------------------------------------")
 st.subheader("Projets réalisés")
 col1,col2=st.columns(2)
@@ -27,14 +27,14 @@ with col1:
     st.markdown("Participation aux soins du bétail et assistance lors des mises bas. Cette expérience a renforcé mes compétences en élevage et mon intérêt pour la production animale..")
 
 with col2:
-    st.image("agneau.jpg",width=200)
+    st.image("agneau.jpg",width=150)
     
 col3,col4=st.columns(2)
 
 with col3:
     st.markdown("Je m’occupe des poules avec sérieux et passion, en veillant à leur alimentation, leur santé et leur bien-être.")
 with col4:
-    st.image("poules.jpg",width=200, caption="Le poulailler a ma charge")
+    st.image("poules.jpg",width=150)
 col5,col6=st.columns(2)
 with col5:
     st.markdown(" J’ai déjà pratiqué la culture de tomates, en assurant leur plantation, leur suivi et leur entretien. Cette expérience m’a permis de développer des compétences pratiques en agriculture, notamment dans la gestion de la croissance, l’arrosage et la récolte, renforçant ainsi mon intérêt pour les productions végétales et les sciences agricoles")
