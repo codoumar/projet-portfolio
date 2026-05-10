@@ -5,7 +5,7 @@ st.subheader("Ingénieur Agronome")
 st.markdown("--------------------------------------------------------------------------")
 
 st.subheader("Profil")
-st.markdown("Je maîtrise les pratiques liées à la mise bas chez la brebis et je sais également cultiver différentes productions agricoles. J’ai déjà étudié certaines bactéries en microbiologie et j’ai eu l’occasion d’observer des cellules animales en biologie animale.")
+st.markdown("Ingénieure agronome passionnée par la production animale, avec des connaissances en élevage, alimentation et gestion des animaux. Motivée, rigoureuse et intéressée par le développement du secteur agricole.Je maîtrise les pratiques liées à la mise bas chez la brebis et je sais également cultiver différentes productions agricoles. J’ai déjà étudié certaines bactéries en microbiologie et j’ai également eu l’occasion d’observer et de préparer des échantillons de cellules animales et végétales à observer au microscope.")
 st.markdown("--------------------------------------------------------------------------")
 st.subheader("Parcours académique")
 st.markdown("* 2024-2027:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow,Diamniadio")
@@ -17,6 +17,8 @@ st.markdown("* Suite bureautique")
 st.markdown("* Canva")
 st.markdown("* Technique de culture agricole:tomates,arachides,oignons vert,gros thym...")
 st.markdown("* Notions en santé animale")
+st.markdown("* Manipulation d'équipements de laboratoire")
+
 
 st.markdown("--------------------------------------------------------------------------")
 
