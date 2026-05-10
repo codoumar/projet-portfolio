@@ -39,12 +39,12 @@ col5,col6=st.columns(2)
 with col5:
     st.markdown(" J’ai déja eu à cultiver des tomates, incluant la plantation, le suivi et l’entretien des cultures. Cette expérience m’a permis de développer des compétences pratiques en agriculture et de renforcer mon intérêt pour les productions végétales et les sciences agricoles.")
 with col6:
-    st.image("culture de tomates.png",width=150)
+    st.image("culture de tomates.png",width=200)
 col7,col8=st.columns(2)
 with col7:
     st.markdown("J’ai participé à la culture de la menthe, incluant la plantation, l’entretien et la récolte, ce qui m’a permis de développer des compétences pratiques en production végétale.")
 with col8:
-    st.image("culture de menthe.jpeg",width=150)
+    st.image("culture de menthe.jpeg",width=200)
         
 with st.sidebar:
     st.image("portrait.jpeg",width=200)
