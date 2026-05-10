@@ -42,7 +42,7 @@ with col6:
     st.image("culture de tomates.png",width=150)
 col7,col8=st.columns(2)
 with col7:
-st.markdown("J’ai participé à la culture de la menthe, incluant la plantation, l’entretien et la récolte, ce qui m’a permis de développer des compétences pratiques en production végétale.")
+    st.markdown("J’ai participé à la culture de la menthe, incluant la plantation, l’entretien et la récolte, ce qui m’a permis de développer des compétences pratiques en production végétale.")
 with col8:
     st.image("culture de menthe.jpeg",width=150)
         
