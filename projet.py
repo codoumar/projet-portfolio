@@ -43,7 +43,7 @@ with col6:
 col7,col8=st.columns(2)
 with col7:
     st.markdown("J’ai déjà cultivé de la menthe en prenant en charge sa plantation, son entretien et sa récolte. Cette pratique m’a permis d’acquérir un savoir-faire concret dans la gestion des plantes aromatiques, notamment en matière d’arrosage, de suivi de la croissance et de qualité de production.")
-with col8:"
+with col8:
     st.image("culture de menthe.jpeg",width=150)
         
 with st.sidebar:
