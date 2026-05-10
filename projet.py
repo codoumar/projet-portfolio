@@ -27,7 +27,7 @@ with col1:
     st.markdown("Je m’occupe du bétail avec passion et sérieux. Cette expérience m’a appris à observer les animaux, anticiper leurs besoins et intervenir lors de moments importants comme la mise bas. Elle nourrit mon engagement envers l’élevage et renforce ma motivation à approfondir mes connaissances en sciences animales et en agriculture.")
 
 with col2:
-    st.image("agneau.jpg", caption="Le bétail dont je m'occupe")
+    st.image("agneau.jpg",width=200, caption="Le bétail dont je m'occupe")
     
 col3,col4=st.columns(2)
 
