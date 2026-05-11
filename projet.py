@@ -35,7 +35,7 @@ st.subheader("Projets réalisés")
 col1,col2=st.columns(2)
     
 with col1:
-    st.markdown("Participation aux soins du bétail et assistance lors des mises bas. Cette expérience a renforcé mes compétences en élevage et mon intérêt pour la production animale..")
+    st.markdown("Participation aux soins du bétail et assistance lors des mises bas. Cette expérience a renforcé mes compétences en élevage et mon intérêt pour la production animale.")
 
 with col2:
     st.image("agneau.jpg",width=150)
@@ -43,7 +43,7 @@ with col2:
 col3,col4=st.columns(2)
 
 with col3:
-    st.markdown("Je m’occupe des poules avec sérieux et passion, en veillant à leur alimentation, leur santé et leur bien-être.")
+    st.markdown("A la maison,je m’occupe des poules avec sérieux et passion, en veillant à leur alimentation, leur santé et leur bien-être.")
 with col4:
     st.image("poules.jpg",width=150)
 col5,col6=st.columns(2)
@@ -53,7 +53,7 @@ with col6:
     st.image("culture de tomates.png",width=200)
 col7,col8=st.columns(2)
 with col7:
-    st.markdown("J’ai participé à la culture de la menthe, incluant la plantation, l’entretien et la récolte, ce qui m’a permis de développer des compétences pratiques en production végétale.")
+    st.markdown("J’ai planté et entretenu cette culture de menthe durant mes vacances par bouturage.Ce qui m’a permis de mettre en oeuvre mes compétences théoriques en production végétale.")
 with col8:
     st.image("culture de menthe.jpeg",width=200)
         
