@@ -35,7 +35,7 @@ st.subheader("Projets réalisés")
 col1,col2=st.columns(2)
     
 with col1:
-    st.markdown("Participation aux soins du bétail et assistance lors des mises bas. Cette expérience a renforcé mes compétences en élevage et mon intérêt pour la production animale.")
+    st.markdown("**Participation aux soins du bétail et assistance lors des mises bas. Cette expérience a renforcé mes compétences en élevage et mon intérêt pour la production animale.**")
 
 with col2:
     st.image("agneau.jpg",width=150)
