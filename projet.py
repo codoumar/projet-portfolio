@@ -13,8 +13,8 @@ st.markdown("* 2023-2024:Baccalauréat en Sciences expérimentales,Institution S
 st.markdown("--------------------------------------------------------------------------")
 
 st.subheader("Compétences techniques")
-st.markdown("Création d’interfaces interactives avec Streamlit") 
-st.markdown("Analyse de données avec Python et Colab")
+st.markdown("* Création d’interfaces interactives avec Streamlit") 
+st.markdown("* Analyse de données avec Python et Colab")
 st.markdown("* Suite bureautique")
 st.markdown("* Canva")
 st.markdown("* Techniques de culture agricole:tomates,arachides,oignons vert,gros thym...")
