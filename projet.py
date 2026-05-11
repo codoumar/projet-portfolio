@@ -30,9 +30,7 @@ st.markdown("* Hygiène d'élevage")
 st.markdown("* Soins du bétail")
 st.markdown("""
 - **Mise bas chez la brebis** : assistance, observation et soins post-natals.  
-- **Suivi du bétail** : alimentation, santé et prévention.  
-- **Observation microscopique** : analyse de cellules animales et végétales.  
-- **Culture agricole** : tomates, arachides, oignons verts, gros thym.
+- **Suivi du bétail** : alimentation, santé et prévention.
 """)
 st.markdown("--------------------------------------------------------------------------")
 st.subheader("Projets réalisés")
