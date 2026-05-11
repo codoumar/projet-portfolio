@@ -28,6 +28,12 @@ st.subheader("Expériences pratiques")
 st.markdown("* Gestion de l'alimentation animale")
 st.markdown("* Hygiène d'élevage")
 st.markdown("* Soins du bétail")
+st.markdown("""
+- **Mise bas chez la brebis** : assistance, observation et soins post-natals.  
+- **Suivi du bétail** : alimentation, santé et prévention.  
+- **Observation microscopique** : analyse de cellules animales et végétales.  
+- **Culture agricole** : tomates, arachides, oignons verts, gros thym.
+""")
 st.markdown("--------------------------------------------------------------------------")
 st.subheader("Projets réalisés")
 col1,col2=st.columns(2)
