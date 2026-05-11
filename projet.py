@@ -9,18 +9,19 @@ st.markdown("Ingénieur agronome passionnée par la production animale, avec des
 st.markdown("--------------------------------------------------------------------------")
 st.subheader("Parcours académique")
 st.markdown("""
-- 2024-2027:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow,Diamniadio.
+- **2024-2027**:Licence en Sciences et Techniques Agricoles Alimentaires et Nutritionnelles,université Amadou Mahtar Mbow,Diamniadio.
 - **2023-2024**:Baccalauréat en Sciences expérimentales,Institution Saint Louis Marie Grignion,Malika.""")
 st.markdown("--------------------------------------------------------------------------")
 
 st.subheader("Compétences techniques")
-st.markdown("* Création d’interfaces interactives avec Streamlit") 
-st.markdown("* Analyse de données avec Python et Colab")
-st.markdown("* Suite bureautique")
-st.markdown("* Canva")
-st.markdown("* Techniques de culture agricole:tomates,arachides,oignons vert,gros thym...")
-st.markdown("* Notions en santé animale")
-st.markdown("* Manipulation d'équipements de laboratoire")
+st.markdown("""
+- Création d’interfaces interactives avec Streamlit
+- Analyse de données avec Python et Colab
+- Suite bureautique
+- Canva
+- Techniques de culture agricole:tomates,arachides,oignons vert,gros thym...
+- Notions en santé animale
+- Manipulation d'équipements de laboratoire""")
 
 
 st.markdown("--------------------------------------------------------------------------")
