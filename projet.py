@@ -16,9 +16,10 @@ st.markdown("-------------------------------------------------------------------
 st.subheader("Compétences techniques")
 st.markdown("""
 - Création d’interfaces interactives avec Streamlit
-- Analyse de données avec Python et Colab
+- Analyse de données avec Python et Google Colab
 - Suite bureautique
-- Canva
+- Canva,Figma
+- Capacité de travailler avec les logiciels QGIS,R studio
 - Techniques de culture agricole:tomates,arachides,oignons vert,gros thym...
 - Notions en santé animale
 - Manipulation d'équipements de laboratoire""")
